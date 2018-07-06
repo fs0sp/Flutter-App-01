@@ -1,11 +1,16 @@
-# second_flutter
+# Flutter Application
 
-A new Flutter project.
+A new  basic Flutter project which contains a text which gets changed when the button is clicked.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
 
 
 ![Default screen](/flutterClick.png?raw=true "Default screen")
+
+
+## About Flutter
+
+
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
